@@ -1,0 +1,36 @@
+The Bill - alive - YT - https://youtu.be/I-yoyuivw9s?t=38m41s
+Punters - alive - nowhere
+Winter Flight - alive - nowhere
+Samson and Delilah - alive - nowhere
+Exploits at West Poley - alive - nowhere
+Caravaggio - died - YT - https://youtu.be/1TFatsmjHpQ?t=3m13s
+The Practice Season 2 Episode 5 - alive - TPB and Hulu
+Stormy Monday - alive - YT - https://youtu.be/FPVAxvz5R7s?t=1h8m18s
+Troubles - 1988 - alive - Amazon AcornTV 7-day trial
+Storyteller - The True Bride - 1988 - alive - YT - https://www.youtube.com/watch?v=pRS5OyvKF5w 21:07-22 (ish)
+War Requiem - 1989 - dies, *but returns!* - TPB
+How To Get Ahead In Advertising - alive - 1989 ? TPB
+The Jim Henson Hour (replay of The True Bride) - 1989 - alive - 
+The Fifteen Streets - 1989 - alive - TPB - YT - https://www.youtube.com/watch?v=oXTpt6-cM_A 1:30-1:32 ish
+Windprints - 1989 - alive - YT - https://www.youtube.com/watch?v=JCzn-8TFl0g&list=PL6ADF6371E65B3829
+Screen Two - S06E08 - Small Zones - 1990 - alive - https://www.youtube.com/watch?v=HfDgJ16MLqI
+Screenplay - S05E09 - Wedded - 1990 - alive - nowhere
+The Field - 1990 - dead - TPB
+
+title: The Bill, year: 1984, dies: false
+title: Punters, year: 1984, dies: false
+title: Winter Flight, year: 1984, dies: false
+title: Samson and Delilah, year: 1985, dies: false
+title: Exploits at West Poley, year: 1985, dies: false
+title: Caravaggio, year: 1986, dies: true
+title: The Practice, year: 1986, dies: false
+title: Stormy Monday, year: 1988, dies: false
+title: Troubles, year: 1988, dies: false
+title: Storyteller, year: 1988, dies: false
+title: War Requiem, year: 1989, dies: true
+title: How To Get Ahead In Advertising, year: 1989, dies: false
+title: The Fifteen Streets, year: 1989, dies: false
+title: Windprints, year: 1989, dies: false
+title: Small Zones, year: 1990, dies: false
+title: Wedded, year: 1990, dies: false
+title: The Field, year: 1990, dies: true
